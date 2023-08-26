@@ -1,0 +1,156 @@
+Uri: https://energy-era.com/css/devicePublish.min.css?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\css\devicePublish.min.css
+Content Type: text/css
+
+Uri: https://energy-era.com/css/lib/bootstrap.min.css?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://energy-era.com/css/lib/fontawesome-brand.min.css
+File Name: C:\Downloaded Web Sites\energy-era.com\css\lib\fontawesome-brand.min.css
+Content Type: text/css
+
+Uri: https://energy-era.com/dist-version/css/pub.v1.css?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\dist-version\css\pub.v1.css
+Content Type: text/css
+
+Uri: https://energy-era.com/eliektrolaboratoriia
+File Name: C:\Downloaded Web Sites\energy-era.com\eliektrolaboratoriia.html
+Content Type: text/html
+
+Uri: https://energy-era.com/favicon.ico?v=8799039614436894
+File Name: C:\Downloaded Web Sites\energy-era.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://energy-era.com/js/lib/cssrelpreload.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\lib\cssrelpreload.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/lib/modernizr-webp.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\lib\modernizr-webp.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/lib/requirejs.min.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\lib\requirejs.min.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/backgroundBlockColor.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\backgroundBlockColor.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/calcHeaderHeight.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\calcHeaderHeight.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/critical.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\critical.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/headerFooter.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\headerFooter.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/orderForm.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\orderForm.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/performance.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\performance.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/js/ulib/upbutton.js?v=2023_03_22T13_48_55_03_00_d5edfdbe8c410f68dafdc69c8fc5be3f5830d2e0
+File Name: C:\Downloaded Web Sites\energy-era.com\js\ulib\upbutton.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/sitecss/srcset-5e6608f497c62d364ad42c34-all.css?v=228
+File Name: C:\Downloaded Web Sites\energy-era.com\sitecss\srcset-5e6608f497c62d364ad42c34-all.css
+Content Type: text/css
+
+Uri: https://energy-era.com/sitecss/typography.css?v=228
+File Name: C:\Downloaded Web Sites\energy-era.com\sitecss\typography.css
+Content Type: text/css
+
+Uri: https://energy-era.com/templates/c_zhkh/css/main-g-theme-site-2-desktop.css
+File Name: C:\Downloaded Web Sites\energy-era.com\templates\c_zhkh\css\main-g-theme-site-2-desktop.css
+Content Type: text/css
+
+Uri: https://energy-era.com/templates/c_zhkh/css/main-g-theme-site-2-phone.css
+File Name: C:\Downloaded Web Sites\energy-era.com\templates\c_zhkh\css\main-g-theme-site-2-phone.css
+Content Type: text/css
+
+Uri: https://energy-era.com/templates/c_zhkh/css/main-g-theme-site-2-tablet.css
+File Name: C:\Downloaded Web Sites\energy-era.com\templates\c_zhkh\css\main-g-theme-site-2-tablet.css
+Content Type: text/css
+
+Uri: https://energy-era.com/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_sslLkZXa.png
+File Name: C:\Downloaded Web Sites\energy-era.com\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_sslLkZXa.png
+Content Type: image/png
+
+Uri: https://energy-era.com/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_Xnde8t06.png
+File Name: C:\Downloaded Web Sites\energy-era.com\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_Xnde8t06.png
+Content Type: image/png
+
+Uri: https://energy-era.com/widgets/mainmenu/js/fixed.js?v=1679921901247
+File Name: C:\Downloaded Web Sites\energy-era.com\widgets\mainmenu\js\fixed.js
+Content Type: application/javascript
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_sslLkZXa.png?quality=70&width=160
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_sslLkZXa-3.png
+Content Type: image/png
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_sslLkZXa.png?quality=70&width=160&webp=1
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_sslLkZXa-1.png
+Content Type: image/webp
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_sslLkZXa.png?quality=70&width=80
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_sslLkZXa-2.png
+Content Type: image/png
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_sslLkZXa.png?quality=70&width=80&webp=1
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_sslLkZXa.png
+Content Type: image/webp
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_Xnde8t06.png?quality=70&width=160
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_Xnde8t06-3.png
+Content Type: image/png
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_Xnde8t06.png?quality=70&width=160&webp=1
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_Xnde8t06-1.png
+Content Type: image/webp
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_Xnde8t06.png?quality=70&width=80
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_Xnde8t06-2.png
+Content Type: image/png
+
+Uri: https://energy-era.com/__scale/uploads/s/m/x/p/mxp5qcgl2fhf/img/full_Xnde8t06.png?quality=70&width=80&webp=1
+File Name: C:\Downloaded Web Sites\energy-era.com\__scale\uploads\s\m\x\p\mxp5qcgl2fhf\img\full_Xnde8t06.png
+Content Type: image/webp
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\energy-era.com\font-awesome\4.2.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://mc.yandex.ru/watch/61991146
+File Name: C:\Downloaded Web Sites\energy-era.com\watch\61991146
+Content Type: image/gif
+
